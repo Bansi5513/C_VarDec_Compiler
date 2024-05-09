@@ -41,8 +41,8 @@ To use this compiler/parser:
 1. Ensure you have Flex and Bison installed on your system.
 2. Compile the flex code and bison code using the following commands:
 
-flex b.l
 bison -d b.y
+flex b.l
 gcc lex.yy.c b.tab.c
 
 3. Run the compiled parser executable:
