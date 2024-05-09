@@ -1,0 +1,4 @@
+int a1 = 5, a3=15;
+float b_2 ;
+float a2 = 5.9;
+end
