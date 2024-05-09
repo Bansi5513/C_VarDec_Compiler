@@ -1,6 +1,8 @@
 # C_VarDec_Compiler
 Flex and Bison Compiler/Parser for C Subset: A simple compiler/parser project demonstrating lexical analysis and parsing using Flex and Bison tools for a subset of the C programming language. Supports variable declarations and assignments for integers and floats. Includes input/output files for testing. 
 
+
+
 -------------------
 This repository contains a flex code file (`b.l`), a Bison file (`b.y`), and input/output files (`input.txt` and `output.txt`) demonstrating a simple compiler/parser for a subset of the C programming language.
 
