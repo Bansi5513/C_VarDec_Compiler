@@ -54,5 +54,5 @@ gcc lex.yy.c b.tab.c
 
 Contributors:
 ---------------
-- <a href="https://github.com/Nikunj-Goswami4">*Nikunj Goswami*</a>
 - <a href="https://github.com/Bansi5513">*Bansi Patel*</a>
+- <a href="https://github.com/Nikunj-Goswami4">*Nikunj Goswami*</a>
